@@ -1,0 +1,32 @@
+body {
+  background-color: rgb(0, 255, 238);
+}
+
+h1 {
+  color: rgb(43, 0, 255);
+  font-size: 90px;
+  font-family: cursive;
+  text-align: center;
+}
+
+p {
+  color: rgb(144, 0, 255);
+  font-style: italic;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  margin-bottom: 20px;
+  border: 20px ridge yellow;
+  border-radius: 1000px;
+}
+
+a:hover {
+    color: red;
+    background-color: orange;
+}
